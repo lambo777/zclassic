@@ -16,9 +16,6 @@ of Bazcoin transactions; depending on the speed of your computer and network
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
-<p align="center">
-  <img src="doc/imgs/zclassic.png" height="500">
-</p>
 
 #### :lock: Security Warnings
 
