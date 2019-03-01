@@ -1,18 +1,18 @@
-ZClassic 2.0.3
+Bazcoin 2.0.3
 <img align="right" width="120" height="80" src="doc/imgs/logo.png">
 ===========
 
-What is ZClassic?
+What is Bazcoin?
 --------------
 
-[ZClassic](https://zclassic.org/) is an implementation of the "Zerocash" protocol.
+[Bazcoin](https://bazcoing.org/) is an implementation of the "Zerocash" protocol.
 Based on Bitcoin's code, it intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. Technical details are available
 in our [Protocol Specification](https://github.com/zcash/zips/raw/master/protocol/protocol.pdf).
 
-This software is the ZClassic client. It downloads and stores the entire history
-of ZClassic transactions; depending on the speed of your computer and network
+This software is the Bazcoin client. It downloads and stores the entire history
+of Bazcoin transactions; depending on the speed of your computer and network
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
@@ -25,7 +25,7 @@ blockchain has reached a significant size.
 See important security warnings on the
 [Security Information page](https://z.cash/support/security/).
 
-**ZClassic is experimental and a work-in-progress.** Use at your own risk.
+**Bazcoin is experimental and a work-in-progress.** Use at your own risk.
 
 ####  :ledger: Deprecation Policy
 
@@ -36,17 +36,8 @@ height.
 
 ## Getting Started
 
-Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main ZClassic network.
+Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main Bazcoin network.
 
-### Need Help?
-
-* :blue_book: See the documentation at the [ReadtheDocs](https://zcash.readthedocs.io)
-  for help and more information.
-* :incoming_envelope: Ask for help on the [Zcash](https://forum.z.cash/) forum.
-* :mag: Chat with our support community on [Rocket.Chat](https://chat.zcashcommunity.com/channel/user-support)
-
-Participation in the ZClassic project is subject to a
-[Code of Conduct](code_of_conduct.md).
 
 ### Building
 
@@ -68,7 +59,7 @@ zlib1g-dev wget curl bsdmainutils automake
 # fetch key
 ./zcutil/fetch-params.sh
 # Run
-./src/zclassicd
+./src/bazcoind
 ```
 
 Currently only Linux is officially supported.
