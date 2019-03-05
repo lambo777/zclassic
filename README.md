@@ -1,6 +1,6 @@
 Dazcoin 2.0.3
 
-VVVV Dev want me to add Grey Paper GP below vvvvv!!! Geeze!!!
+Dev want me to add "GP" below vvvvv!!! Geeze!!!
 
 Dazcoin is an experiment to see if a Troll can create a digital asset with help from community's that were Trolled
 
