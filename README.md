@@ -1,5 +1,7 @@
 Dazcoin 2.0.3
 
+Dazcoin is an experiment to see if a Troll can create a digital asset with help from community's that were Trolled
+
 ===========
 
 What is Dazcoin?
