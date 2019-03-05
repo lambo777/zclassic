@@ -1,5 +1,7 @@
 Dazcoin 2.0.3
 
+Fucking stupid Dev want me to add Grey Paper WP here vvvvv!!! Geeze!!!
+
 Dazcoin is an experiment to see if a Troll can create a digital asset with help from community's that were Trolled
 
 ===========
